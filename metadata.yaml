@@ -1,4 +1,8 @@
 _repo: Bull-Dog-Drummond-The-Adventures-of-a-Demobilized-Officer-Who-Found-Peace-Dull_49935
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49935-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: McNeile, H. C. (Herman Cyril)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26827
     wikipedia: http://en.wikipedia.org/wiki/H._C._McNeile
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49935#Bull-Dog-Drummond-The-Adventures-of-a-Demobilized-Officer-Who-Found-Peace-Dull
 gutenberg_issued: '2015-09-10'
 gutenberg_type: Text
 identifiers:
